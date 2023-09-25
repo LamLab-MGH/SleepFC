@@ -5,7 +5,7 @@ This page contains the necessary code to run the analyses from the paper "Sleep 
 Link: TBD.  
 
 ## Files included:  
-* "Preprocessing_Features_and_Matrices.ipynb": Preprocess raw EEG timeseries .mat files and .mat sleep staging files to obtain output features and functional connectivity matrices.  
+* "Preprocessing_Features_and_Matrices.ipynb": Preprocess raw EEG timeseries files and sleep staging files to obtain output features and functional connectivity matrices.  
 * "Manuscript_Figures.ipynb": Plot the main figures from the paper including FC matrix statistical comparisons, regressions, and box plots.  
 * "Cross_sectional_MoCA.ipynb": Cognitive score analysis for the cross-sectional regression.  
 * "Longitudinal_decline.R: Longitudinal cognitive score decline analysis.  
