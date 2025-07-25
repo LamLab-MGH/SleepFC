@@ -2,7 +2,7 @@
 
 ## Introduction:
 This page contains the necessary code to run the analyses from the paper "Sleep network functional connectivity, hyperexcitability, and cognition in Alzheimer’s disease".  
-Link: TBD.  
+Link: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.13861
 
 ## Files included:  
 * "Preprocessing_Features_and_Matrices.ipynb": Preprocess raw EEG timeseries files and sleep staging files to obtain output features and functional connectivity matrices.  
